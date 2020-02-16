@@ -1,7 +1,7 @@
 [{
   "title": "Слайдшоу",
   "description": "Приложение, которое отображает картинки",
-  "package": "me.breitburg.slideshow",
+  "package": "me_breitburg_slideshow",
   "download": 0,
   "likes": {
     "total": 394
