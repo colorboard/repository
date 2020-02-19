@@ -2,10 +2,7 @@
   "title": "Слайдшоу",
   "description": "Приложение, которое отображает картинки",
   "package": "me_breitburg_slideshow",
-  "download": 0,
-  "likes": {
-    "total": 394
-  },
+  "likes": 10,
   "developer": {
     "name": "Breitburg Elias",
     "id": 1,
